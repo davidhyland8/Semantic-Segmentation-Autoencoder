@@ -1,6 +1,6 @@
 # Semantic Segmentation Autoencoder for Autonomous Agent in CARLA
 
-This repository is an implementation of the autoencoder architecture explored in  used in the task of semantic segmentation for my final year project in Data Science and Analytics.
+This repository is an implementation of the autoencoder architecture explored in https://arxiv.org/abs/1902.03765#:~:text=Latent%20Space%20Reinforcement%20Learning%20for%20Steering%20Angle%20Prediction,-Qadeer%20Khan%2C%20Torsten&text=Model%2Dfree%20reinforcement%20learning%20has,in%20a%20high%2Dfidelity%20simulator used for the task of semantic segmentation for my final year project in Data Science and Analytics.
 
 ## Dataset
 The dataset used in this project consists of #120,000 RGB images collected from the CARLA simulator and their corresponding semantically labelled images which act as the 'ground truth'.
